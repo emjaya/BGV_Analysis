@@ -1,0 +1,10 @@
+
+Run: 1964 
+delay value for bgvtell01: -5 
+delay value for bgvtell02: -5 
+delay value for bgvtell04: -15 
+delay value for bgvtell05: 29 
+delay value for bgvtell06: -15 
+delay value for bgvtell07: -15 
+delay value for bgvtell08: 41 
+delay value for bgvtell09: 44 
